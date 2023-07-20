@@ -1,0 +1,4 @@
+a.out
+app/
+xcompile.img*
+rootfs.ext4
